@@ -1,5 +1,9 @@
-# Learning Vue.js
-
+---
+layout: post
+title:  "Learning Vue.js"
+date:   2018-05-14 11:10:12
+categories: vue.js vue "vue cli" spa
+---
 * vue-cli
     * `npm install -g @vue/cli`
     * `vue -V`
