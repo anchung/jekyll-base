@@ -4,6 +4,8 @@ title:  "Learning Vue.js"
 date:   2018-05-14 11:10:12
 categories: vue.js vue "vue cli" spa
 ---
+Notes took from web crawling about Vue.js
+
 * vue-cli
     * `npm install -g @vue/cli`
     * `vue -V`
