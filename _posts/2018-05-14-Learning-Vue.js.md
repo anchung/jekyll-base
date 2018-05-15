@@ -21,5 +21,3 @@ Notes took from web crawling about Vue.js
     * Unit Test - `@vue/jest`
     * E2E Test - `@vue/cupress`, `@vue/nightwatch`
     
-    中文測試. 多國語言支援.
-    
